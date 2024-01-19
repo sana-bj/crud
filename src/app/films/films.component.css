@@ -1,0 +1,23 @@
+.ngx-datatable {
+    border: 1px solid #ddd !important;
+}
+
+.datatable-header,
+.datatable-body,
+.datatable-footer {
+    border: 1px solid #ddd;
+    /* Couleur et épaisseur de la bordure */
+}
+
+.datatable-row,
+.datatable-row-group {
+    border-bottom: 1px solid #ddd;
+    /* Couleur et épaisseur de la bordure basse */
+}
+
+.datatable-column,
+.datatable-header-cell,
+.datatable-body-cell {
+    border-right: 1px solid #ddd;
+    /* Couleur et épaisseur de la bordure droite */
+}
